@@ -19,3 +19,39 @@
 	path = theme/moove
 	url = https://github.com/willianmano/moodle-theme_moove
 	branch = MOODLE_400_STABLE
+[submodule "lib/editor/atto/plugins/kalturamedia"]
+	path = lib/editor/atto/plugins/kalturamedia
+	url = git@github.com:CityUniversityLondon/CUL-atto_kalturamedia.git
+	branch = MOODLE_400_STABLE
+[submodule "blocks/kalturamediagallery"]
+	path = blocks/kalturamediagallery
+	url = git@github.com:CityUniversityLondon/CUL-block_kalturamediagallery.git
+	branch = MOODLE_400_STABLE
+[submodule "filter/kaltura"]
+	path = filter/kaltura
+	url = git@github.com:CityUniversityLondon/CUL-filter_kaltura.git
+	branch = MOODLE_400_STABLE
+[submodule "local/kaltura"]
+	path = local/kaltura
+	url = git@github.com:CityUniversityLondon/CUL-local_kaltura.git
+	branch = MOODLE_400_STABLE
+[submodule "local/kalturamediagallery"]
+	path = local/kalturamediagallery
+	url = git@github.com:CityUniversityLondon/CUL-local_kalturamediagallery.git
+	branch = MOODLE_400_STABLE
+[submodule "local/mymedia"]
+	path = local/mymedia
+	url = git@github.com:CityUniversityLondon/CUL-local_mymedia.git
+	branch = MOODLE_400_STABLE
+[submodule "mod/kalvidassign"]
+	path = mod/kalvidassign
+	url = git@github.com:CityUniversityLondon/CUL-mod_kalvidassign.git
+	branch = MOODLE_400_STABLE
+[submodule "mod/kalvidres"]
+	path = mod/kalvidres
+	url = git@github.com:CityUniversityLondon/CUL-mod_kalvidres.git
+	branch = MOODLE_400_STABLE
+[submodule "lib/editor/tinymce/plugins/kalturamedia"]
+	path = lib/editor/tinymce/plugins/kalturamedia
+	url = git@github.com:CityUniversityLondon/CUL-tinymce_kalturamedia.git
+	branch = MOODLE_400_STABLE
