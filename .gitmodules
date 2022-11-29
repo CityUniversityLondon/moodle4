@@ -1,0 +1,21 @@
+[submodule "course/format/topcoll"]
+	path = course/format/topcoll
+	url = https://github.com/gjb2048/moodle-format_topcoll
+	branch = MOODLE_400
+[submodule "course/format/grid"]
+	path = course/format/grid
+	url = https://github.com/gjb2048/moodle-format_grid
+	branch = MOODLE_400
+[submodule "course/format/tiles"]
+	path = course/format/tiles
+	url = https://bitbucket.org/dw8/moodle-format_tiles/branch/moodle40
+[submodule "mod/turnitintooltwo"]
+	path = mod/turnitintooltwo
+	url = https://github.com/turnitin/moodle-mod_turnitintooltwo
+[submodule "plagiarism/turnitin"]
+	path = plagiarism/turnitin
+	url = https://github.com/turnitin/moodle-plagiarism_turnitin
+[submodule "theme/moove"]
+	path = theme/moove
+	url = https://github.com/willianmano/moodle-theme_moove
+	branch = MOODLE_400_STABLE
