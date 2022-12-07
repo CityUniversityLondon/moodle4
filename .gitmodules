@@ -55,3 +55,22 @@
 	path = lib/editor/tinymce/plugins/kalturamedia
 	url = git@github.com:CityUniversityLondon/CUL-tinymce_kalturamedia.git
 	branch = MOODLE_400_STABLE
+[submodule "local/culcourse_visibility"]
+	path = local/culcourse_visibility
+	url = git@github.com:amandadoughty/moodle-local_culcourse_visibility.git
+[submodule "admin/tool/ally"]
+	path = admin/tool/ally
+	url = git@github.com:open-lms-open-source/moodle-tool_ally.git
+	branch = MOODLE_400_STABLE
+[submodule "filter/ally"]
+	path = filter/ally
+	url = git@github.com:open-lms-open-source/moodle-filter_ally.git
+	branch = MOODLE_400_STABLE
+[submodule "report/allylti"]
+	path = report/allylti
+	url = git@github.com:open-lms-open-source/moodle-report_allylti.git
+	branch = MOODLE_400_STABLE
+[submodule "mod/peerwork"]
+	path = mod/peerwork
+	url = git@github.com:amandadoughty/moodle-mod_peerwork.git
+	branch = MOODLE_40_STABLE
