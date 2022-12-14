@@ -70,10 +70,10 @@
 	path = report/allylti
 	url = git@github.com:open-lms-open-source/moodle-report_allylti.git
 	branch = MOODLE_400_STABLE
-[submodule "mod/peerwork"]
-	path = mod/peerwork
-	url = git@github.com:amandadoughty/moodle-mod_peerwork.git
-	branch = MOODLE_40_STABLE
 [submodule "theme/cul_moove"]
 	path = theme/cul_moove
 	url = git@github.com:CityUniversityLondon/CUL-theme_cul_moove.git
+[submodule "mod/peerwork"]
+	path = mod/peerwork
+	url = git@github.com:CityUniversityLondon/moodle-mod_peerwork.git
+	branch = MOODLE_400_STABLE
