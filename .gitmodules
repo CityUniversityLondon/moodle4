@@ -77,3 +77,6 @@
 	path = mod/peerwork
 	url = git@github.com:CityUniversityLondon/moodle-mod_peerwork.git
 	branch = MOODLE_400_STABLE
+[submodule "grade/report/culuser"]
+	path = grade/report/culuser
+	url = git@github.com:CityUniversityLondon/CUL-gradereport_culuser.git
